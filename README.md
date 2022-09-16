@@ -5,4 +5,4 @@ b=int.input("Please enter your age")
 if a="Vishal" and b>18:
   print("You are awesome")
 else:
-  print("You are chutya nandlal")
+  print("You are chutya Nandlal")
