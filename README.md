@@ -5,4 +5,4 @@
  if a==" Vishal" and b>18:
    print("You are awesome")
  else:
-   print("You are so clever")
+   print("You are so somuch  clever")
